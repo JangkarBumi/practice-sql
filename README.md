@@ -1,6 +1,6 @@
 # SQL
 
-The goal of this project is practicing sql syntax
+The goal of this project is to learn & practice about sql
 
 # CONTRIBUTORS 
 
